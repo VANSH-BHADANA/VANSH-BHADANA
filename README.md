@@ -48,7 +48,7 @@
 
 ### 🤝 Let's Connect!
 
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/vansh-bhadana/])  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/vansh-bhadana)  
 - 📂 [Projects](https://github.com/VANSH-BHADANA)
 - ✉️ vansh.bhadana@gmail.com
 
