@@ -1,13 +1,13 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#00BFFF">Vansh Bhadana</span></h1>
 <p align="center">
-  🧠 AI/ML Enthusiast | 💻 Full-Stack Developer | 🤖 GenAI Explorer | 🇮🇳 India
+  🧠 AI/ML Enthusiast | 💻 Data Science | 🤖 GenAI Explorer | 🇮🇳 India
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 Final-year **B.Tech CSE** student
+- 🎓 3rd-year **B.Tech CSE** student
 - 🔬 Exploring AI, Machine Learning & Generative AI
 - 🤖 Built an **AI Medical Chatbot** powered by LLaMA/Mistral + SQLite memory
 - 🧩 Loves combining **GenAI + Full-stack development** for real-world impact
@@ -48,9 +48,9 @@
 
 ### 🤝 Let's Connect!
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 🌐 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/vansh-bhadana/))  
 - 📂 [Projects](https://github.com/VANSH-BHADANA)
-- ✉️ vansh@example.com *(replace with your real email)*
+- ✉️ vansh.bhadana@gmail.com
 
 ---
 
@@ -58,5 +58,5 @@
   ⚡ “Build cool things. Break nothing. Deploy everywhere.”  
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+GenAI+Developer;Open-source+Contributor;Loves+AI,+Code+and+Pizza&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science;Full-stack+GenAI+Developer;Open-source+Contributor;Loves+AI,+Code+and+Pizza&center=true&width=500&height=45">
 </p>
