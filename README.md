@@ -1,10 +1,7 @@
 <!-- 🚀 Vansh-Bhadana GitHub Profile README 🚀 -->
 
-<p align="center">
-  <img src="https://i.imgur.com/Zz0jvZb.gif" width="100%" alt="banner"/>
-</p>
 
-<h1 align="center">⚡ Hey, I'm Vansh — Building the Future with Code ⚡</h1>
+<h1 align="center">⚡  Hey, I'm Vansh  ⚡</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+GenAI+Dev+%7C+Simulation+Creator;Making+Machines+Think+%26+Look+Cool;Turning+Ideas+into+Reality+💥;Debugging+like+it's+a+lifestyle+😎"/>
@@ -71,7 +68,7 @@
 
 ---
 
-### 🌈 Vibe Zone  
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px" alt="coding gif">
@@ -92,8 +89,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/rCXF8JZ.gif" width="100%">
+
 </p>
 
 <p align="center">
