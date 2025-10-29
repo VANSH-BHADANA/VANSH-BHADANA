@@ -4,7 +4,7 @@
 <h1 align="center">⚡  Hey, I'm Vansh  ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+GenAI+Dev+%7C+Simulation+Creator;Making+Machines+Think+%26+Look+Cool;Turning+Ideas+into+Reality+💥;Debugging+like+it's+a+lifestyle+😎"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=%7C+AI+Engineer+%7C+GenAI+Dev+%7C+Simulation+Creator;Making+Machines+Think+%26+Look+Cool;Turning+Ideas+into+Reality+💥;Debugging+like+it's+a+lifestyle+😎"/>
 </p>
 
 ---
