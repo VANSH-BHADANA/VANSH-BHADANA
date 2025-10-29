@@ -59,8 +59,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VANSH-BHADANA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VANSH-BHADANA&theme=tokyonight&hide_border=true&background=0d1117" height="180em"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VANSH-BHADANA&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
