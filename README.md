@@ -1,224 +1,70 @@
-<!-- 1. HEADER -->
+<!-- 💫 Vansh-Bhadana GitHub Profile README 💫 -->
 
-<h1 align="center"> Hi there, I'm VANSH BHA 👋 </h1>
-
-<h3 align="center"> A passionate ML Engineer from India </h3>
-
-<!-- 2. GIF -->
-
-<p align="center"><img src="https://www.google.com/search?q=https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="400"/> </p>
-
-<!-- 3. ABOUT ME -->
-
-👨‍💻 About Me
-
-<p>
-I'm a [Your Role] who loves building [Type of Apps/Projects] and solving complex problems. I'm passionate about [Your Passion, e.g., clean code, accessibility, AI, etc.].
-
-
-
-
-
-
-
-🔭 I’m currently working on a [Your Project Name].
-
-
-
-
- 🌱 I’m currently learning Data Science. 
-
-
-
- 👯 I’m looking to collaborate on Open source. 
-
-
-
- 💬 Ask me about React, Python, or a hobby.
-
-
-
- ⚡ Fun fact: I like Pizza. </p>
-
-<!-- 4. TECH STACK -->
-
-🚀 My Tech Stack
-
-<p align="left">
-<strong>Frontend:</strong>
-
-
-
-
-
-<!-- You can find more icons at https://shields.io/ -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-JavaScript-F7DF1E%3Fstyle%3Dflat-square%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript" />
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-React-61DAFB%3Fstyle%3Dflat-square%26logo%3Dreact%26logoColor%3Dblack" alt="React" />
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-TypeScript-3178C6%3Fstyle%3Dflat-square%26logo%3Dtypescript%26logoColor%3Dwhite" alt="TypeScript" />
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-TailwindCSS-38B2AC%3Fstyle%3Dflat-square%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="TailwindCSS" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-HTML5-E34F26%3Fstyle%3Dflat-square%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-CSS3-1572B6%3Fstyle%3Dflat-square%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3" />
-</a>
-
-
-
-
-
-
-<strong>Backend:</strong>
-
-
-
-
-
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Node.js-339933%3Fstyle%3Dflat-square%26logo%3Dnode.js%26logoColor%3Dwhite" alt="Node.js" />
-</a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Express-000000%3Fstyle%3Dflat-square%26logo%3Dexpress%26logoColor%3Dwhite" alt="Express" />
-</a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-</a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-</a>
-
-
-
-
-
-
-<strong>Databases:</strong>
-
-
-
-
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-MongoDB-47A248%3Fstyle%3Dflat-square%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB" />
-</a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-PostgreSQL-4169E1%3Fstyle%3Dflat-square%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL" />
-</a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Firebase-FFCA28%3Fstyle%3Dflat-square%26logo%3Dfirebase%26logoColor%3Dblack" alt="Firebase" />
-</a>
-
-
-
-
-
-
-<strong>Tools & Platforms:</strong>
-
-
-
-
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Docker-2496ED%3Fstyle%3Dflat-square%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker" />
-</a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-VSCode-007ACC%3Fstyle%3Dflat-square%26logo%3Dvisual-studio-code%26logoColor%3Dwhite" alt="VSCode" />
-</a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Figma-F24E1E%3Fstyle%3Dflat-square%26logo%3Dfigma%26logoColor%3Dwhite" alt="Figma" />
-</a>
-
-</p>
-
-<!-- 5. PROJECTS -->
-
-🛠️ My Projects
-
-Here are some of the projects I'm proud of.
-
-Project
-
-Description
-
-Tech Stack
-
-Links
-
-[Project Name 1]
-
-A brief description of your project. What does it do? What problem does it solve?
-
-React, Node.js, MongoDB
-
-Repo
-
-[Project Name 2]
-
-A brief description of your project. What does it do? What problem does it solve?
-
-Python, Flask, PostgreSQL
-
-Repo
-
-[Project Name 3]
-
-A brief description of your project. What does it do? What problem does it solve?
-
-HTML, CSS, Vanilla JS
-
-Repo
-
-<p align="right">
-<a href="[link-to-your-full-portfolio-or-all-github-repos]">
-View All My Projects &rarr;
-</a>
-</p>
-
-<!-- 6. GITHUB STATS -->
-
-📊 My GitHub Stats
+<h1 align="center">Hey, I'm Vansh 👋</h1>
 
 <p align="center">
-<!--
-Replace [YOUR_USERNAME] with your GitHub username.
-Choose a theme: https://www.google.com/search?q=https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
--->
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="[YOUR_USERNAME]'s GitHub Stats" />
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[YOUR_USERNAME]&layout=compact&theme=radical" alt="[YOUR_USERNAME]'s Top Languages" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px">
 </p>
-
-<!-- 7. CONNECT WITH ME -->
-
-📬 Let's Connect
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/[your-linkedin-username]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-LinkedIn-0077B5%3Fstyle%3Dflat-square%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
-</a>
-<a href="https://twitter.com/[your-twitter-username]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Twitter-1DA1F2%3Fstyle%3Dflat-square%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter" />
-</a>
-<a href="mailto:[your-email@example.com]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Email-D14836%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
-</a>
-<a href="[your-portfolio-website-link]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Portfolio-000000%3Fstyle%3Dflat-square%26logo%3Dglyph%26logoColor%3Dwhite" alt="Portfolio" />
-</a>
+  <a href="https://github.com/VANSH-BHADANA"><img src="https://img.shields.io/github/followers/VANSH-BHADANA?label=Follow&style=social"></a>
+  <a href="https://twitter.com/intent/follow?screen_name=VANSH-BHADANA"><img src="https://img.shields.io/twitter/follow/VANSH-BHADANA?style=social"></a>
+  <img src="https://komarev.com/ghpvc/?username=VANSH-BHADANA&style=flat-square&color=blue" alt="Profile views"/>
 </p>
+
+---
+
+### 💫 About Me  
+🧠 AI Enthusiast | 💻 GenAI & Simulation Dev | 🎮 Building Cool Stuff from Scratch  
+
+- 🌱 Learning & creating with **AI, CUDA, and Unity ML-Agents**  
+- 🤖 Passionate about **Generative AI, Deep Learning & Autonomous Systems**  
+- ⚡ Random fact: My debugging playlist hits harder than most gym sets  
+- 💬 Ask me about **Python | Flask | C++ | Machine Learning | Unity | GPUs**  
+
+---
+
+### 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VANSH-BHADANA&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VANSH-BHADANA&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+### 🎨 Aesthetic Vibes  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=AI+Engineer+in+the+making...;Turning+code+into+cool+creations;Gen+Z+dev+with+GenAI+vibes+⚡;Let's+build+something+insane!"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400px">
+</p>
+
+---
+
+### 🌐 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/vansh-bhadana"><img src="https://img.shields.io/badge/LinkedIn-Vansh%20Bhadana-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:vanshbhadana@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/VANSH-BHADANA"><img src="https://img.shields.io/badge/GitHub-Vansh%20Bhadana-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+<p align="center">✨ “Keep coding, keep glowing.” ✨</p>
