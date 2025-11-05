@@ -63,8 +63,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VANSH-BHADANA&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 </p>
+
 [![An image of @vanshbhadana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vanshbhadana)](https://holopin.io/@vanshbhadana)
----
 
 
 
